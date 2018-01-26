@@ -13,3 +13,12 @@ div {
 	justify-content: space-between;
 	flex-wrap: wrap;
 }
+
+footer {
+	display: flex;
+	justify-content: center;
+}
+
+h1, h2, h3 {
+	text-align: center;
+}
