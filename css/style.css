@@ -2,12 +2,13 @@ body {
 	font-family: Roboto;
 }
 
-main {
-	display: flex;
-	flex-direction: column;
-}
-
 section {
 	border: solid 1px black;
 	margin: 10px;
+}
+
+div {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
 }
