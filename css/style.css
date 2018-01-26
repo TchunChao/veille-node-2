@@ -38,6 +38,10 @@ nav {
   border: solid 1px black;
   font-size: 2em;
   font-family: Roboto-Bold;
+  color: #ffffff;
+}
+nav a {
+  color: #ffffff;
 }
 a {
   text-decoration: none;
