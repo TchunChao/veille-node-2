@@ -4,5 +4,10 @@ body {
 
 main {
 	display: flex;
+	flex-direction: column;
 }
 
+section {
+	border: solid 1px black;
+	margin: 10px;
+}
