@@ -29,7 +29,7 @@ h2,
 h3 {
   text-align: center;
   font-family: Roboto-Black;
-  color: #ffffff;
+  color: #eeeeee;
   font-size: 2em;
 }
 nav {
@@ -40,10 +40,10 @@ nav {
   border: solid 1px black;
   font-size: 2em;
   font-family: Roboto-Bold;
-  color: #ffffff;
+  color: #eeeeee;
 }
 nav a {
-  color: #ffffff;
+  color: #eeeeee;
 }
 a {
   text-decoration: none;
@@ -53,4 +53,7 @@ nav,
 section {
   background-color: #fcd75f;
   padding: 15px;
+}
+header h1 a {
+  color: #ffffff;
 }
