@@ -1,0 +1,9 @@
+git remote add origin https://github.com/TchunChao/veille-node.git
+git push -u origin master 
+	//Local vers distant
+
+git add <fichier>
+git add .
+
+git status
+git status -s
