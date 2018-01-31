@@ -9,3 +9,9 @@ git status
 git status -s
 
 git commit -m "<commentaire>"
+
+
+//Branches
+git branche <nom pour la branche>
+git push origin <branche>
+git checkout <branche>
